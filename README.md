@@ -26,7 +26,7 @@ With Clapperboard, you can effortlessly filter scenes by location, characters, o
 
 2. **Create the application using this repository anywhere in your system:**
 ```
-npx create-next-app@latest clapperboard-app -e https://github.com/phani130999/clapperboard
+npx create-next-app@latest clapperboard-app -e https://github.com/phani130999/clapperboard-release
 ```
 
 3. **Navigate to the app folder:**

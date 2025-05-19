@@ -26,7 +26,7 @@ With Clapperboard, you can effortlessly filter scenes by location, characters, o
 
 2. **Run Command Prompt as Administrator, and navigate to the directory where you want the application to be installed.**
 
-3. **Create the application using this repository anywhere in your system:**
+3. **Create the application using this repository:**
 ```
 npx create-next-app@latest clapperboard-app -e https://github.com/phani130999/clapperboard-release
 ```

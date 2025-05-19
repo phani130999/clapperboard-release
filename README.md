@@ -24,22 +24,24 @@ With Clapperboard, you can effortlessly filter scenes by location, characters, o
 
 1. **Install [Node.js](https://nodejs.org/)** (recommended v18 or later)
 
-2. **Create the application using this repository anywhere in your system:**
+2. **Run Command Prompt as Administrator, and navigate to the directory where you want the application to be installed.**
+
+3. **Create the application using this repository anywhere in your system:**
 ```
 npx create-next-app@latest clapperboard-app -e https://github.com/phani130999/clapperboard-release
 ```
 
-3. **Navigate to the app folder:**
+4. **Navigate to the app folder:**
 ```
 cd clapperboard-app
 ```
 
-4. **Install dependencies:**
+5. **Install dependencies:**
 ```
 npm install
 ```
 
-5. **Run the application:**
+6. **Run the application:**
 ```
 npm run dev
 ```
